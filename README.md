@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning react & next.js
-- - 📫 How to reach me: 
+- 📫 How to reach me: 
 
 <!--
 **Iselinklementin/Iselinklementin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
