@@ -6,7 +6,9 @@ I am a fast learner and have a strong desire to use my new skills in frontend we
 UX, beautiful pixels and writing clean accessible code matters to me.
 
 🌱 I’m currently learning react & next.js
+
 👩‍🎨 I previously worked as a designer
+
 ⚡ I like laughter, learning, structure, pretty colors, honesty & gaming
 
 #### Contact
