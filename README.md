@@ -2,7 +2,7 @@
 
 I’m a graphic designer and soon to be Front-End Developer.
 I’m a fast learner and have a strong desire to use my new skills in frontend web development. 
-I’d love to work with forward-thinking people to design and build interactive, accessible websites and products.
+I’d love to work with forward-thinking people to design and build interactive, accessible websites.
 
 - 🌱 I’m currently learning react & next.js
 - 👩‍🎨 I previously worked as a designer
