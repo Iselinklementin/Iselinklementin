@@ -4,7 +4,8 @@ Im a graphic designer and soon to be Front-End Developer. I graduate from Noroff
 
 - 🌱 I’m currently learning react & next.js
 - 📫 iselin@knuff.no
-- 🐝  I previously worked as a designer
+- 🐝 I previously worked as a designer
+- 👩‍🎨 I previously worked as a designer
 
 <!--
 **Iselinklementin/Iselinklementin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
