@@ -3,7 +3,8 @@
 Im a graphic designer and soon to be Front-End Developer. I graduate from Noroff in the spring of 2022.
 
 - 🌱 I’m currently learning react & next.js
-- 📫 How to reach me: 
+- 📫 iselin@knuff.no
+- ⚡ Fun fact: ...
 
 <!--
 **Iselinklementin/Iselinklementin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
