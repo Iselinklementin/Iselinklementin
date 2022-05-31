@@ -1,13 +1,10 @@
 ### Hi there 👋
 
 I´m a graphic designer and soon to be Front-End Developer.
-
 I am a fast learner and have a strong desire to use my new skills in frontend web development.
 
 🌱 I’m currently learning react & next.js
-
 👩‍🎨 I previously worked as a designer
-
 ⚡ I like learning, structure, laughter, pretty colors & gaming
 
 #### Contact
