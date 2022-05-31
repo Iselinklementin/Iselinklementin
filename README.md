@@ -4,6 +4,7 @@ Im a graphic designer and soon to be Front-End Developer. I graduate from Noroff
 
 - 🌱 I’m currently learning react & next.js
 - 👩‍🎨 I previously worked as a designer
+- ⚡ I like laughter, learning, structure, pretty colors, honesty & gaming
 - 📫 iselin@knuff.no
 
 <!--
