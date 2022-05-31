@@ -2,7 +2,6 @@
 
 I´m a graphic designer and soon to be Front-End Developer. 
 I graduate from Noroff in the spring of 2022.
-
 I am a fast learner and have a strong desire to use my new skills in frontend web development.
 UX, beautiful pixels and writing clean accessible code matters to me.
 
