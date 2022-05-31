@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Im a graphic designer and soon to be Front-End Developer. I graduate from Noroff in the spring of 2022.
+
 - 🌱 I’m currently learning react & next.js
 - 📫 How to reach me: 
 
