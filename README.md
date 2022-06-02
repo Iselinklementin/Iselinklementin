@@ -9,7 +9,7 @@ I’d love to work with forward-thinking people to design and build interactive,
 - 📚 I love learning new things
 - 🎧 I listen to podcasts every day
 - 🎭 I’m convinced I have a good sense of humor
-- ♥️ Love problem solving - especially the solving part
+- ♥️ I love problem solving - especially the solving part
 
 ---
 
