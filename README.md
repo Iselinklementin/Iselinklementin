@@ -18,7 +18,7 @@ I’d love to work with forward-thinking people to design and build interactive,
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 
-[image](https://github-readme-stats.vercel.app/api/top-langs/?username={Iselinklementin})
+[image](https://github-readme-stats.vercel.app/api/top-langs/?username=Iselinklementin)
 
 #### Contact
 
