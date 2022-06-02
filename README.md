@@ -34,7 +34,7 @@ I’d love to work with forward-thinking people to design and build interactive,
 
 ---
 
-#### Contact
+### Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-IselinHaugen-white?style=for-the-badge&logo=Linkedin&logoColor=0077b5&link=https://www.linkedin.com/in/iselinhaugen)](https://www.linkedin.com/in/iselinhaugen)
 
