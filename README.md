@@ -36,6 +36,10 @@ I’d love to work with forward-thinking people to design and build interactive,
 
 #### Contact
 
+You can have a look at 👩‍🎨 [My portfolio](https://iselinklementin.netlify.app/), or contact me on LinkedIn:
+
+[![Linkedin Badge](https://img.shields.io/badge/-IselinHaugen-white?style=for-the-badge&logo=Linkedin&logoColor=0077b5&link=https://www.linkedin.com/in/iselinhaugen)](https://www.linkedin.com/in/iselinhaugen)
+
 📫 iselin@knuff.no  |  👩🏼‍💻 https://iselinklementin.netlify.app/
  
 
