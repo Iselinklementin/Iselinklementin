@@ -8,6 +8,10 @@ I’d love to work with forward-thinking people to design and build interactive,
 - 👩‍🎨 I previously worked as a designer
 - ⚡ I like learning, structure, laughter, pretty colors & gaming
 
+#### Language
+
+![image]({[BadgeURLHere](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)})
+
 #### Contact
 
 📫 iselin@knuff.no  |  👩🏼‍💻 https://iselinklementin.netlify.app/
